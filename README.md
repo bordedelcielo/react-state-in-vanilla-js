@@ -1,0 +1,1 @@
+A simulation of the concept of state utilized by the React.js library in vanilla JavaScript.
